@@ -1,6 +1,6 @@
 # Manage Landing Page Tailwind Project Tutorial
 
-Welcome to the Tailwind CSS Project Tutorial! This tutorial covers the implementation of a website using Tailwind CSS. 
+Welcome to the Tailwind CSS Project Tutorial! This repository covers the implementation of a website using Tailwind CSS. 
 
 ## Table of Contents
 
